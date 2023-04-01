@@ -5,3 +5,5 @@ and the testbench. The testvector generator pushes the serial string 01001011010
 LSB to MSB to the x input of the sequence detector. From the simulation waveform, the output is 1 for
 situations where a 0010 is detected and twice for a 0010010. Comments are also in the code which
 describe what is going on at each position.
+
+Relevant code is contained in \3320_Project1.srcs
